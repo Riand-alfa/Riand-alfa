@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Riand-alfa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css, javascript, php
+- 🌱 I’m currently learning html, css, javascript,and php
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me my Instagram : riand_alfa23
-- 😄 Pronouns: male
+- 😄 Gender: male
 - ⚡ Fun fact: i'm someting of a gamer myself
 
 <!---
